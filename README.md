@@ -13,4 +13,5 @@ Questo script è uno strumento semplice ma potente per diagnosticare rapidamente
 🔲 python webscanner.pyc
 
 # ⚠️ ATTENZIONE!!! 
+![Security](https://www.ilmeteo.it/portale/files/giornale/big/test-it-alert-23012024.jpg)
 # 🚸🚸 NON USARE QUESTO STRUMENTO SENZA AUTORIZZAZIONE. PROVA QUESTI STRUMENTI SU TE STESSO PER IMPARARE AD USARLI PER SCOPO DIDATTICO 
